@@ -352,7 +352,3 @@ This workflow establishes a complete production-ready Flask deployment pipeline:
 * GitHub Actions for automated build and deploy
 
 This setup ensures continuous integration, seamless updates, and reliable production hosting using fully managed AWS services.
-
----
-
-Would you like me to generate this as a properly formatted **`README.md` file** ready to commit to your GitHub repo?
